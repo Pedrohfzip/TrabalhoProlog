@@ -1,18 +1,24 @@
-Veiculos
+Manual de utilização do Sistema de Identificação de Veículos
+O sistema especializado de identificação de veículos tem como principal objetivo realizar a previsão de qual veículo o usuário está tentando encontrar com base em uma série de perguntas que diferenciam um veículo do outro.
 
-Sedan: possui quatro portas, estilo tradicional.
-SUV: possui quatro portas, estilo robusto e altura elevada.
-Minivan: possui quatro portas, estilo familiar e espaço interno ampliado.
+Em nossa base, possuímos 10 tipos de veículos que podem ser descritos pelo usuário:
 
-Hatchback: possui duas portas, estilo compacto.
-Caminhonete: possui duas portas e caçamba traseira.
-Carro de rally: possui duas portas, estilo robusto e tração integral.
+sedan
+suv
+minivan
+hatchback
+caminhonete
+carro de rally
+carro de fórmula 1
+kart
+avião
+helicóptero
+bicicleta
+moto
 
-Bicicleta: possui duas rodas e pedal.
-Moto: possui duas rodas e estilo esportivo.
+Como utilizar:
+O usuário deve inicializar o código e escrever iniciar. para que o sistema especializado comece a rodar.
 
+Após a inicialização do sistema, perguntas relacionadas aos veículos serão exibidas na tela, dando a opção do usuário responder s. para sim e n. para não.
 
-Carro de fórmula 1: possui estilo aerodinâmico, alta potência e baixo peso.
-Kart: possui estilo compacto, alta potência e baixo peso.
-Avião: possui asas e motor aeronáutico.
-Helicóptero: possui rotor e motor aeronáutico.
+Ao final de todas as perguntas, o sistema exibirá a sua resposta final, assim o usuário consegue conferir se essa era sua vontade inicial.
